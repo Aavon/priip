@@ -1,0 +1,17 @@
+{
+  "addr": "0.0.0.0:8087",
+  "validate_url": "http://httpbin.org/ip",
+  "verify_interval": 30,
+  "qing_ting": {
+    "api": "https://proxyapi.horocn.com/api/v2/proxies",
+    "order_id": "...",
+    "format": "json",
+    "line_separator": "unix",
+    "can_repeat": "no",
+    "num": 20,
+    "user_token": "..."
+  },
+  "kuai_dai_li": {
+    "url_tpl": "https://www.kuaidaili.com/free/inha/%d"
+  }
+}
